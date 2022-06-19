@@ -1,0 +1,22 @@
+.ad {
+    border-bottom: 5px solid #BC8E5D;
+}
+
+
+
+.headad {
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+    font-family: 'Quicksand', sans-serif;
+    font-size: 35px;
+}
+
+.p {
+    text-align : center;
+    text-indent: 20px;
+    text-align: justify;
+    line-height: 2;
+    padding: 3rem;
+
+}

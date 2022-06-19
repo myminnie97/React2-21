@@ -1,0 +1,11 @@
+.layout {
+    font-family: 'Quicksand', sans-serif;
+    border-bottom: 5px solid #BC8E5D;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+    color:rgb(255, 255, 255); 
+    font-size: 15px; 
+    border-bottom: 5px solid #BC8E5D;
+}

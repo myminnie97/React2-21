@@ -1,0 +1,53 @@
+.singin {
+    border-bottom: 5px solid #BC8E5D;
+}
+
+.head {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color:rgb(0, 0, 0); 
+    font-size: 50px;
+    font-family: 'Quicksand', sans-serif;
+} 
+
+.titleH {
+    justify-content: center;
+    display: flex;
+    color:rgb(0, 0, 0); 
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+}
+ 
+.user {
+    justify-content: center;
+    display: flex;
+}
+
+.pass {
+    justify-content: center;
+    display: flex;
+}
+
+.remem {
+    justify-content: center;
+    display: flex;
+}
+
+.navlink { 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 14px;
+    color:rgb(0, 0, 0); 
+}
+
+.but {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.ac {
+    border-bottom: 1px solid #000000;
+}

@@ -1,0 +1,36 @@
+.h {
+    border-bottom: 5px solid #BC8E5D;
+}
+
+.titleabout {
+    justify-content: center;
+    align-items: center;
+    color:rgb(0, 0, 0); 
+    font-family: 'Quicksand', sans-serif;
+    font-size: 35px;
+    background-size: cover;
+    padding: 2rem;
+    padding: 30px;
+    text-align : center;
+    
+}
+
+.p {
+    text-align : center;
+    text-indent: 20px;
+    text-align: justify;
+    line-height: 2;
+    padding: 3rem;
+
+}
+
+.pic {
+    max-height: 10000px;
+    text-align : center;
+    margin: auto auto;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+
+
+}

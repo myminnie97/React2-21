@@ -1,0 +1,20 @@
+.app-header {
+    border-bottom: 5px solid #BC8E5D;
+    background-color: #881518;
+    color:white; 
+    font-size: 15px;
+    height: 65px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+   
+  }
+
+.app-logo-mfu {
+    height: 60px;
+    justify-content: left;
+    align-items: center;
+    
+    
+    
+}

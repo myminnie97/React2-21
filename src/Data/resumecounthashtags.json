@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"test"},
+{"type":"table","name":"resumecounthashtags","database":"test","data":
+[
+{"COL 1":"Hashtags","COL 2":"Positive Count","COL 3":"Neutral Count","COL 4":"Negative Count"},
+{"COL 1":"#mfu","COL 2":"2","COL 3":"1","COL 4":"0"},
+{"COL 1":"#มฟล","COL 2":"1","COL 3":"5","COL 4":"0"},
+{"COL 1":"#ทีมมฟล","COL 2":"1","COL 3":"29","COL 4":"25"},
+{"COL 1":"#แม่ฟ้าหลวง","COL 2":"0","COL 3":"3","COL 4":"0"}
+]
+}
+]
