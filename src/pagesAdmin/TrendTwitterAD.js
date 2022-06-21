@@ -15,10 +15,7 @@ const TrendTwitterAD = () => {
     <div className="app-container" >
       <h1>TREND TWITTER</h1>
 
-      <label htmlFor="search">
-        Search : &nbsp;
-        <input id="search" type="text" onChange={data} />
-      </label>
+
     
       <table class="table table-striped">
         <thead >

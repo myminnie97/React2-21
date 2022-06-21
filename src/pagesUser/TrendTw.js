@@ -18,10 +18,7 @@ const TrendTw = () => {
     <div className="app-container">
       <h1>TREND TWITTER</h1>
       #ทีมมฟล
-      <label htmlFor="search">
-        Search : &nbsp;
-        <input id="search" type="text" onChange={data} />
-      </label>
+      
 
       <table className="table">
         <thead>
