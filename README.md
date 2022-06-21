@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Intership TWITTER TREND MONITORING FOR MFU : React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Intership project by React 2/2021
 
 ## Available Scripts
 
